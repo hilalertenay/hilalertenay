@@ -1,6 +1,6 @@
 - 👋 @hilalertenay
 - 👀 Yazılımla ilgileniyorum.
-- 🌱 HTML,CSS,JAVASCRİPT 
+- 🌱 HTML,CSS,BOOSTRAP,JAVASCRİPT 
 - 💞️ İngilizce üzerinde çalışıyorum.
 - 📫 hilalertenay9@gmail.com
 
